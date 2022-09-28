@@ -79,10 +79,10 @@ Features implemented using
 
 Following enhancements and improvements can be done:
 
-Showing the contact with alphabetical sections.
-Search with both name or phone number.
-Store multiple numbers under the same contact name.
-Add picture of contact feature.
-Add unit test of each feature.
-Adding of address through maps and proper searching of location instead of manually adding the address only.
-Add contact to favorite feature.
+#Showing the contact with alphabetical sections.
+#Search with both name or phone number.
+#Store multiple numbers under the same contact name.
+#Add picture of contact feature.
+#Add unit test of each feature.
+#Adding of address through maps and proper searching of location instead of manually adding the address only.
+#Add contact to favorite feature.
