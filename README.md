@@ -77,12 +77,12 @@ Features implemented using
 > Need WhatsApp and other social links  to implment
 
 
-Following enhancements and improvements can be done:
+#   Following enhancements and improvements can be done:
 
-#   Showing the contact with alphabetical sections.
-#   Search with both name or phone number.
-#   Store multiple numbers under the same contact name.
-#   Add picture of contact feature.
-#   Add unit test of each feature.
-#   Adding of address through maps and proper searching of location instead of manually adding the address only.
-#   Add contact to favorite feature.
+# 1 Showing the contact with alphabetical sections.
+# 2 Search with both name or phone number.
+# 3 Store multiple numbers under the same contact name.
+# 4 Add picture of contact feature.
+# 5 Add unit test of each feature.
+# 6 Adding of address through maps and proper searching of location instead of manually adding the address only.
+# 7 Add contact to favorite feature.
